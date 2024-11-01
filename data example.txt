@@ -1,0 +1,42 @@
+{
+  "name": "Radnah Igor",
+  "email": "radi@gmail.com",
+  "phone": "5 65 42",
+  "favorite": true
+}
+{
+  "name": "Dougy Travis",
+  "email": "doug@gmail.com",
+  "phone": "5 89 45",
+  "favorite": true
+}
+{
+  "name": "Trevor Tip",
+  "email": "trev@gmail.com",
+  "phone": "4 89 66",
+  "favorite": false
+}
+{
+  "name": "Garett Bibilou",
+  "email": "gar@gmail.com ",
+  "phone": "9 56 86",
+  "favorite": false
+}
+{
+  "name": "Drake Bit",
+  "email": "dra@gmail.com ",
+  "phone": "5 96 78",
+  "favorite": true
+}
+{
+  "name": "Titi Raven",
+  "email": "titi@gmail.com ",
+  "phone": "9 78 43",
+  "favorite": false
+}
+{
+  "name": "Rogue Assin",
+  "email": "rog@gmail.com ",
+  "phone": "4 86 24",
+  "favorite": false
+}
