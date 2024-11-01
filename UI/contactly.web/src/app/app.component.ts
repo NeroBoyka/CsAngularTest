@@ -39,7 +39,7 @@ export class AppComponent {
     };
 
     this.http
-      .post('https://localhost:7043/api/Contacts', addContactRequest)
+      .post('https://localhost:7005/api/Contacts', addContactRequest)
       .subscribe({
         next: (value) => {
           console.log(value);
